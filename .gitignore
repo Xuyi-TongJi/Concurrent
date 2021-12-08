@@ -1,0 +1,3 @@
+# Project exclude paths
+/src/main/java/edu/seu/unsafeTest/
+/target/
