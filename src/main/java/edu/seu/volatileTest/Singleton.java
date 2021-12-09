@@ -4,7 +4,7 @@ public class Singleton {
     /**
      * 无参构造
      */
-    public Singleton() {
+    private Singleton() {
     }
 
     // 懒惰实例化单例模式
